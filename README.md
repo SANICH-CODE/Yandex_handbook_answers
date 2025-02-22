@@ -1,5 +1,4 @@
 # Yandex handbook "Python Basics" keys
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Ответы, решения, ключи к задачам глав хэндбука "Основы Python" от Яндекса. Решены все 260 задач.
 
@@ -11,7 +10,7 @@ Answers, solutions, keys to the tasks of the chapters of the handbook "Python Ba
   <summary>2.1.
 Ввод и вывод данных. Операции с числами, строками. Форматирование</summary>
   
-[Решения 2.1](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_2.1.md)
+[Решения 2.1](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_2.1.md)
   ```
 A. Привет, Яндекс!
 B. Привет, всем!
@@ -39,7 +38,7 @@ T. Мухи отдельно, котлеты отдельно
   <summary>2.2.
 Условный оператор</summary>
   
-[Решения 2.2](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_2.2.md)
+[Решения 2.2](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_2.2.md)
   
   ```
 A. Просто здравствуй, просто как дела
@@ -68,7 +67,7 @@ T. Зайка — 2
   <summary>2.3.
 Циклы</summary>
 
-[Решения 2.3](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_2.3.md)
+[Решения 2.3](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_2.3.md)
   ```
 A. Раз, два, три! Ёлочка, гори!
 B. Зайка — 3
@@ -96,7 +95,7 @@ T. Хайпанём немножечко!
   <summary>2.4.
 Вложенные циклы</summary>
   
-[Решения 2.4](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_2.4.md)  
+[Решения 2.4](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_2.4.md)  
   ```
 A. Таблица умножения
 B. Не таблица умножения
@@ -124,7 +123,7 @@ T. Математическая выгода
   <summary>3.1.
 Строки, кортежи, списки</summary>
 
-[Решения 3.1](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_3.1.md)
+[Решения 3.1](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_3.1.md)
   ```
 A. Азбука
 B. Кручу-верчу
@@ -152,7 +151,7 @@ T. Польский калькулятор — 2
   <summary>3.2.
 Множества, словари</summary>
 
-[Решения 3.2](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_3.2.md)
+[Решения 3.2](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_3.2.md)
   ```
 A. Символическая выжимка
 B. Символическая разница
@@ -180,7 +179,7 @@ T. Простая задача 4.0
   <summary>3.3.
 Списочные выражения. Модель памяти для типов языка Python</summary>
 
-[Решения 3.3](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_3.3.md)
+[Решения 3.3](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_3.3.md)
   ```
 A. Список квадратов
 B. Таблица умножения 2.0
@@ -198,7 +197,7 @@ J. RLE наоборот
   <summary>3.4.
 Встроенные возможности по работе с коллекциями</summary>
 
-[Решения 3.4](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_3.4.md)
+[Решения 3.4](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_3.4.md)
   ```
 A. Автоматизация списка
 B. Сборы на прогулку
@@ -226,7 +225,7 @@ T. Таблицы истинности 3 (Таблица истинности 3)
   <summary>3.5.
 Потоковый ввод/вывод. Работа с текстовыми файлами. JSON</summary>
 
-[Решения 3.5](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_3.5.md)
+[Решения 3.5](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_3.5.md)
   ```
 A. A+B+...
 B. Средний рост
@@ -254,7 +253,7 @@ T. Файловая сумма
   <summary>4.1.
 Функции. Области видимости. Передача параметров в функции</summary>
 
-[Решения 4.1](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_4.1.md)
+[Решения 4.1](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_4.1.md)
   ```
 A. Функциональное приветствие
 B. Функциональный НОД
@@ -272,7 +271,7 @@ J. Слияние
   <summary>4.2.
 Позиционные и именованные аргументы. Функции высших порядков. Лямбда-функции</summary>
 
-[Решения 4.2](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_4.2.md)
+[Решения 4.2](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_4.2.md)
   ```
 A. Генератор списков
 B. Генератор матриц
@@ -290,7 +289,7 @@ J. Ключевой секрет
   <summary>4.3.
 Рекурсия. Декораторы. Генераторы</summary>
 
-[Решения 4.3](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_4.3.md)
+[Решения 4.3](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_4.3.md)
   ```
 A. Рекурсивный сумматор
 B. Рекурсивный сумматор цифр
@@ -308,7 +307,7 @@ J. "Выпрямление" списка
   <summary>5.1.
 Объектная модель Python. Классы, поля и методы</summary>
 
-[Решения 5.1](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_5.1.md)
+[Решения 5.1](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_5.1.md)
   ```
 A. Классная точка
 B. Классная точка 2.0
@@ -326,7 +325,7 @@ J. Стек
   <summary>5.2.
 Волшебные методы, переопределение методов. Наследование</summary>
 
-[Решения 5.2](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_5.2.md)
+[Решения 5.2](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_5.2.md)
   ```
 A. Классная точка 3.0
 B. Классная точка 4.0
@@ -344,7 +343,7 @@ J. Дроби v0.7
   <summary>5.3.
 Модель исключений Python. Try, except, else, finally. Модули</summary>
   
-[Решения 5.3](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_5.3.md)
+[Решения 5.3](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_5.3.md)
   ```
 A. Обработка ошибок
 C. Ломать — не строить 2
@@ -361,7 +360,7 @@ J. Валидация пароля
   <summary>6.1.
 Модули math и numpy</summary>
 
-[Решения 6.1](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_6.1.md)
+[Решения 6.1](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_6.1.md)
   ```
 A. Математика — круто, но это не точно
 B. Потоковый НОД
@@ -374,12 +373,13 @@ H. Числовая змейка 3.0
 I. Вращение
 J. Лесенка
   ```
+
 </details>
 <details>
   <summary>6.2.
 Модуль pandas</summary>
 
-[Решения 6.2](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_6.2.md)
+[Решения 6.2](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_6.2.md)
   ```
 A. Длины всех слов - 2
 B. Длины всех слов по чётности
@@ -397,7 +397,7 @@ J. Экстремум функции
   <summary>6.3.
 Модуль requests</summary>
 
-[Решения 6.3](https://github.com/Pavellver/Yandex_handbook_answers/blob/main/python_basics_6.3.md)
+[Решения 6.3](https://github.com/SANICH-CODE/Yandex_handbook_answers/blob/main/python_basics_6.3.md)
   ```
 A. Проверка системы
 B. Суммирование ответов
